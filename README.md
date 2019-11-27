@@ -3,8 +3,9 @@
 
 <https://twitter.com/mauro_lepore>
 
-  - Todo disponible en <http://bit.ly/FIXME>.
-  - Presentación en [FIXME](XXXXXXX).
+  - Todo disponible en <https://github.com/maurolepore/ayuda-pr>.
+  - Presentación en
+    [.pdf](https://github.com/maurolepore/ayuda-pr/blob/master/ayuda-pr.pdf).
   - [Licencia CCO](https://creativecommons.org/choose/zero/?lang=es)
 
 ## Por que usar solicitudes de fusión?
@@ -152,3 +153,5 @@ un cambio al repositorio fuente.**
 
 **“No subes al nivel de tus metas. Caes el nivel de tus sistemas.” -
 [James Clear](https://jamesclear.com/atomic-habits)**
+
+<https://github.com/maurolepore/ayuda-pr>
