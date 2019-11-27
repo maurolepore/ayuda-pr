@@ -4,11 +4,12 @@ output: github_document
 
 # Ayuda para solicitudes de fusión en GitHub  
 
-<https://twitter.com/mauro_lepore>
+<http://bit.ly/usethis-te-ayuda>  
 
-* Todo disponible en <https://github.com/maurolepore/ayuda-pr>.
-* Presentación en [.pdf](https://github.com/maurolepore/ayuda-pr/blob/master/ayuda-pr.pdf).
-* [Licencia CCO](https://creativecommons.org/choose/zero/?lang=es)
+<https://twitter.com/mauro_lepore>  
+
+[Licencia CCO](https://creativecommons.org/choose/zero/?lang=es)  
+
 
 
 
@@ -192,10 +193,9 @@ git push -d origin pr
 git branch -d pr
 ```
 
-
 # __Déjate ayudar por usethis__
 
 __"No subes al nivel de tus metas. Caes el nivel de tus sistemas." - [James Clear](https://jamesclear.com/atomic-habits)__
 
-<https://github.com/maurolepore/ayuda-pr>
+<http://bit.ly/usethis-te-ayuda>
 
