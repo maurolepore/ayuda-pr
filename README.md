@@ -56,7 +56,6 @@ GitHub](https://usethis.r-lib.org/reference/pr_init.html):
     # forestgeoguest@LAPTOP ~/abc (master)
     git remote add upstream https://github.com/an-org/abc.git
     git pull upstream master
-    git branch --set-upstream-to=upstream/master
 
 ## `git_sitrep()`
 
@@ -106,8 +105,7 @@ un cambio al repositorio fuente.**
 <img src="https://i.imgur.com/4DwVcTM.png" width = 550 />
 
     # forestgeoguest@LAPTOP ~/abc (pr)
-    # Usando el remoto por defecto "origin", y la rama "pr"
-    # `git pull` es un atajo para `git fetch && git merge FETCH_HEAD`
+    # Atajo configurado via `git branch --set-upstream-to=origin/pr`
     git pull
     git pull upstream master
     git push
@@ -128,7 +126,7 @@ un cambio al repositorio fuente.**
 
 ## La solicitud de fusión es aceptada
 
-**`[pr]` ya no tiene conflictos con `[upstream/master]`**
+**“pr” ya no tiene conflictos con “upstream:master”**
 
 <img src="https://i.imgur.com/bVkV0PP.png" width = 650 />
 

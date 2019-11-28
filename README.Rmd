@@ -67,7 +67,6 @@ cd abc
 # forestgeoguest@LAPTOP ~/abc (master)
 git remote add upstream https://github.com/an-org/abc.git
 git pull upstream master
-git branch --set-upstream-to=upstream/master
 ```
 
 
@@ -136,8 +135,7 @@ __Y ese cambio entra en conflicto con la PR.__
 
 ```
 # forestgeoguest@LAPTOP ~/abc (pr)
-# Usando el remoto por defecto "origin", y la rama "pr"
-# `git pull` es un atajo para `git fetch && git merge FETCH_HEAD`
+# Atajo configurado via `git branch --set-upstream-to=origin/pr`
 git pull
 git pull upstream master
 git push
@@ -167,7 +165,7 @@ git push
 
 ## La solicitud de fusión es aceptada
 
-__`[pr]` ya no tiene conflictos con `[upstream/master]`__
+__"pr" ya no tiene conflictos con "upstream:master"__
 
 <img src="https://i.imgur.com/bVkV0PP.png" width = 650 />
 
