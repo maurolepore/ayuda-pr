@@ -157,7 +157,6 @@ git push
 # forestgeoguest@LAPTOP ~/abc (pr)
 # Reintenta soncronizar
 git pull
-git pull upstream master
 git push
 ```
 

@@ -121,7 +121,6 @@ un cambio al repositorio fuente.**
     # forestgeoguest@LAPTOP ~/abc (pr)
     # Reintenta soncronizar
     git pull
-    git pull upstream master
     git push
 
 ## La solicitud de fusión es aceptada
